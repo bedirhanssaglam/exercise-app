@@ -1,6 +1,6 @@
 # Exercise App
 
-An exercise application to help users manage and track their workouts, with features like Text-to-Speech (TTS) announcements, a countdown timer, and a history of exercises.
+An exercise application to help users manage and track their workouts, with features like Text-to-Speech (TTS) announcements, BMI calculator, a countdown timer, and a history of exercises.
 
 ### Technologies and Libraries Used
 
