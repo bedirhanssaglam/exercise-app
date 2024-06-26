@@ -56,4 +56,4 @@ fun Float.checkBMI(context: Context): Pair<String, String> {
 
 fun Editable?.editableToFloat(): Float = toString().toFloat()
 
-fun Int.toSoundUri(): Uri = Uri.parse("android.resource://com.example.exerciseapp/$this")
+fun Int.toSoundUri(): Uri = Uri.parse("${AppConstants.SOUND_URL}$this")
